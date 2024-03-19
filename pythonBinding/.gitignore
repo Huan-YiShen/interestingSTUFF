@@ -1,0 +1,6 @@
+/.vscode/
+/.build/
+/.venv/
+
+clib_cal.so
+lib_cal.so
