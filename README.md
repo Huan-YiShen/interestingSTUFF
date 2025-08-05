@@ -1,5 +1,5 @@
 # interestingSTUFF
-a place where interesting topics are implemented
+a place where random interesting topics in software tooling, physics, and engineering are implemented.
 
 - random_walk
 - python binding
